@@ -311,10 +311,8 @@ form {
   height: 400px;
   margin: 0 auto;
   padding-top: 40px;
-  background-image:  url(https://placekitten.com/g/400/500);
   background-repeat: no-repeat;
   background-position:center;
-  font-family: 'Ravi Prakash', cursive;
 }
   label {
     margin: 40px;
