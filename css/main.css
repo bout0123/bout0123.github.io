@@ -304,15 +304,42 @@ footer {
 }
 
 
-/*This is a contact form*/
+form{
+  margin-bottom: 30px;
+      margin-left: 600px;
+    position: relative;
+    bottom: auto 0;
+    margin-left: 25px;
 
-.container {
-  width: 500px;
-  height: 500px;
-  background-color: black;
+
+
 }
 
-/*Contact Form end*/
+fieldset {
+  color: black;
+ text-align: center;
+    font-size: 25px;
+
+}
+
+input[type="checkbox"]:checked{
+  background-color: grey;
+}
+
+h2 {
+   padding: 15px;
+    font-size: 30px;
+    font-weight: 800;
+   font-family: serif;
+    border: 2px solid black;
+
+}
+
+input[type="submit"]{
+    margin-left: 20px;
+
+}
+
 iframe {
     margin-bottom: 100px;
     max-width: 100%;
