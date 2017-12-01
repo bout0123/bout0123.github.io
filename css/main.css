@@ -306,7 +306,11 @@ footer {
 
 /*This is a contact form*/
 
-
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: black;
+}
 
 /*Contact Form end*/
 iframe {
